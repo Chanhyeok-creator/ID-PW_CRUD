@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio temporary files
+*.pdb
+*.cache
+
+# Test results
+TestResults/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Application data
+User_Data.txt
+User_Data2.txt
+User_Data3.txt
